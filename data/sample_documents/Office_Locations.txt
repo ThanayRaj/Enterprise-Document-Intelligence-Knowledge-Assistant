@@ -1,0 +1,24 @@
+NORTHLINE SYSTEMS
+Office Locations Directory
+Effective date: 1 January 2026
+Owner: Workplace Services
+
+Austin Hub
+Address: 4400 Barton Skyway, Suite 800, Austin, TX 78746
+Capacity: 120 seats
+Hours: 08:00-19:00 local time on weekdays
+Badge desk: Floor 8 reception
+
+Manchester Studio
+Address: 12 Quay Street, Manchester, M3 3JE, United Kingdom
+Capacity: 40 seats
+Hours: 08:30-18:30 local time on weekdays
+Note: Visitor Wi-Fi is disabled. Guests receive a time-limited wired guest port after sign-in.
+
+Bengaluru Delivery Center
+Address: Manyata Tech Park, Block C3, Level 4, Bengaluru 560045, India
+Capacity: 200 seats
+Hours: 08:00-20:00 local time on weekdays
+Secure print: Follow-me printing with badge release only
+
+There is no Northline office in Antarctica. Do not invent additional sites.
